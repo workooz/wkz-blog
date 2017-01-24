@@ -1,0 +1,24 @@
+{
+  "name": "wkz-blog",
+  "version": "1.0.0",
+  "description": "workooz blog client application",
+  "main": "index.html",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workooz/wkz-blog.git"
+  },
+  "keywords": [
+    "workooz",
+    "wkz",
+    "blog"
+  ],
+  "author": "Cedric Badmington <cedric.badmington@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workooz/wkz-blog/issues"
+  },
+  "homepage": "https://github.com/workooz/wkz-blog#readme"
+}
